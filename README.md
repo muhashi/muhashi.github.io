@@ -2,7 +2,7 @@
 
 **Under construction**
 
-Email me: <muhamedoes+github@gmail.com>
+[Email me](mailto:muhamedoes+github@gmail.com)
 
 **Websites**
 
