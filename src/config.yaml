@@ -1,7 +1,7 @@
 baseURL: https://muhashi.github.io
 languageCode: en-gb
 defaultContentLanguage: en
-title: Muhashi
+title: muhashi
 theme: cupper-hugo-theme
 googleAnalytics: G-D2W8H8VFPC
 
@@ -10,7 +10,7 @@ params:
   homeMetaContent: Muhashi's portfolio, ported from the original Cupper project.
   footer: © 2023 [Muhashi](https://muhashi.github.io)&nbsp;&nbsp;&nbsp;Powered by [Hugo](https://gohugo.io) and [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
   # For more date formats see https://gohugo.io/functions/format
-  dateFormat: Jan 2, 2006 n
+  dateFormat: Jan 2, 2006
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
