@@ -1,0 +1,72 @@
+baseURL: https://muhashi.github.io
+languageCode: en-gb
+defaultContentLanguage: en
+title: Muhashi
+theme: cupper-hugo-theme
+googleAnalytics: G-D2W8H8VFPC
+
+params:
+  description: software developer
+  homeMetaContent: Muhashi's portfolio, ported from the original Cupper project.
+  footer: © 2023 [Muhashi](https://muhashi.github.io)&nbsp;&nbsp;&nbsp;Powered by [Hugo](https://gohugo.io) and [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
+  # For more date formats see https://gohugo.io/functions/format
+  dateFormat: Jan 2, 2006 n
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+  defaultDarkTheme: false
+  navTitleText: muhashi
+  moveFooterToHeader: false
+  # logoAlt: An alternative text description of the logo
+  customCss:
+    - css/custom.css
+  # customJs:
+  #   - js/custom_01.js
+  #   - js/custom_02.js
+
+permalinks:
+  post: /:filename/
+
+menu:
+  nav:
+    - name: about
+      url: /
+      weight: 1
+    - name: projects
+      url: /projects
+      weight: 2
+
+module:
+  imports:
+  - path: github.com/hugo-mods/icons
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
