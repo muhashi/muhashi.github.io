@@ -3,7 +3,6 @@ languageCode: en-gb
 defaultContentLanguage: en
 title: muhashi
 theme: cupper-hugo-theme
-googleAnalytics: G-D2W8H8VFPC
 
 params:
   description: software developer
