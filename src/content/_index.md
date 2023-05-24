@@ -8,4 +8,4 @@ draft: false
 
 - I graduated from UNSW in 2023 with a Computer Science degree and a major in AI
 
-- My strongest interest is in web developement, specifically developing React.js/Node.js webapps, and I'm also a little wee bit into web cybersecurity
+- My strongest interest is in web development, specifically developing React.js/Node.js webapps, and I'm also a little wee bit into web cybersecurity
