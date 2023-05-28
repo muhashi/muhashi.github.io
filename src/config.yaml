@@ -1,4 +1,4 @@
-baseURL: https://muhashi.github.io
+baseURL: https://muhashi.com
 languageCode: en-gb
 defaultContentLanguage: en
 title: muhashi
@@ -7,7 +7,7 @@ theme: cupper-hugo-theme
 params:
   description: software developer
   homeMetaContent: Muhashi's portfolio, ported from the original Cupper project.
-  footer: © 2023 [Muhashi](https://muhashi.github.io)&nbsp;&nbsp;&nbsp;Powered by [Hugo](https://gohugo.io) and [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
+  footer: © 2023 [Muhashi](https://muhashi.com)&nbsp;&nbsp;&nbsp;Powered by [Hugo](https://gohugo.io) and [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
   # For more date formats see https://gohugo.io/functions/format
   dateFormat: Jan 2, 2006
   hideHeaderLinks: false
