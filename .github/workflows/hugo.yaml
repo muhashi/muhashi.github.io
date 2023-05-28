@@ -61,6 +61,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+          touch ./src/public/CNAME
           echo "muhashi.com" > ./src/public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
