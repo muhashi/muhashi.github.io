@@ -1,5 +1,4 @@
 <script lang="ts">
-  import Link from "./Link.svelte";
   import Email from "./Email.svelte";
 </script>
 
@@ -7,13 +6,13 @@
   <h3>about me :&rpar;</h3>
   <p>hellooo, I'm muhashi</p>
   <p>
-    If you're here from <Link href="https://geodle.me" text="Geodle" />, check
-    out <Link href="/projects" text="my other stuff" />!
+    If you're here from <a href="https://geodle.me">Geodle</a>, check
+    out <a href="/projects">my other stuff</a>!
   </p>
   <p>
     You can <Email domain="gmail" name="muhamedoes+muhashi" tld="com"
       >email me here</Email
-    >, or find me on <Link href="https://github.com/muhashi" text="Github" /> (please follow me i have a measly number of followers)
+    >, or find me on <a href="https://github.com/muhashi">Github</a> (please follow me i have a measly number of followers)
   </p>
   <p>that is all</p>
 </div>

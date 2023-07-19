@@ -1,6 +1,4 @@
 <script lang="ts">
-  import Link from "../Link.svelte";
-
   export let href: string;
   export let name: string;
   export let description: string;
@@ -10,7 +8,7 @@
 
 <div>
   <h3>
-    <Link {href} text={name} />
+    <a href={href}>{name}</a>
   </h3>
   <div id="project-info">
     {#if imageFile}
