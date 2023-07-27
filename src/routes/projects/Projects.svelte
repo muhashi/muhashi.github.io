@@ -36,14 +36,6 @@
     <hr />
 
     <Project
-      name="realestate.com.au Node.js API"
-      href="https://github.com/muhashi/realestate.com.au"
-      description="A Node.js API for realestate.com.au that allows you to search for properties and get their information"
-    />
-
-    <hr />
-
-    <Project
       name="Calculate the ANZ Health Star Rating of Food in Node.js"
       href="https://github.com/muhashi/health-star-rating"
       description="An npm module for calculating the ANZ Health Star Rating of foods, which I made with the intent to use in a project that I never ended up finishing"
