@@ -12,7 +12,7 @@
   <p>
     You can <Email domain="gmail" name="muhamedoes+muhashi" tld="com"
       >email me here</Email
-    >, or find me on <a href="https://github.com/muhashi">Github</a> (please follow me i have a measly number of followers)
+    >, or find me on <a href="https://github.com/muhashi">Github</a>
   </p>
   <p>that is all</p>
 </div>
