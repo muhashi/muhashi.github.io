@@ -18,11 +18,12 @@
     {/if}
     <div id="project-description">
       <p>
-        {description}
+        {@html description}
       </p>
     </div>
   </div>
 </div>
+<hr />
 
 <style>
   #image-container {
@@ -42,6 +43,10 @@
 
   p {
     margin-top: 0;
+  }
+
+  hr {
+    width: 100%;
   }
 
   #project-info {
