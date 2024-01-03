@@ -1,10 +1,13 @@
 <script>
   import { page } from "$app/stores";
   import HeaderLink from "./HeaderLink.svelte";
+  import MuhashiTitle from "./MuhashiTitle.svelte";
 </script>
 
 <div id="container">
-  <h1 id="header">muhashi</h1>
+  <div id="header">
+    <MuhashiTitle />
+  </div>
   <nav id="links">
     <HeaderLink href="/" text="about" selected={$page.url.pathname === "/"} />
     <HeaderLink
