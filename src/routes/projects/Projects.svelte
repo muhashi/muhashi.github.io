@@ -16,7 +16,7 @@
       imageFile="geodle.jpg"
       imageAlt="Screenshot of Geodle"
     />
-
+<!--
     <Project
       name="it's raining somewhere else"
       href="https://itsrainingsomewhereelse.com"
@@ -24,7 +24,7 @@
       imageFile="its-raining-somewhere-else.png"
       imageAlt="Screenshot of it's raining somewhere else"
     />
-
+-->
     <Project
       name="Health Star Rating Calculator"
       href="https://muhashi.com/health-star-rating-web/"
