@@ -40,15 +40,51 @@
     <hr />
 
     <Project
+      name="syllables"
+      href="https://github.com/muhashi/syllables"
+      description="An npm module that counts syllables in text using the CMU Pronouncing Dictionary"
+    />
+
+    <Project
+      name="extractwords"
+      href="https://github.com/muhashi/extractwords"
+      description="A small npm module that extracts the words from text"
+    />
+
+    <Project
+      name="generate-random-username"
+      href="https://github.com/muhashi/generate-random-username"
+      description="A tiny npm module to generate random usernames"
+    />
+
+    <Project
+      name="rhymes-with"
+      href="https://github.com/muhashi/rhymes-with"
+      description="A small npm module that determines if two words rhyme, based on the CMU Pronouncing Dictionary"
+    />
+
+    <Project
+      name="rhyming-part"
+      href="https://github.com/muhashi/rhyming-part"
+      description="An npm module to get the rhyming part of a word, which is useful to check if words rhyme or for grouping words that rhyme together."
+    />
+
+    <Project
+      name="findahaiku"
+      href="https://github.com/muhashi/findahaiku"
+      description="An npm module to split up text into the lines of a haiku."
+    />
+
+    <Project
       name="health-star-rating"
       href="https://github.com/muhashi/health-star-rating"
       description="An npm module for calculating the ANZ Health Star Rating of foods, which is used in the above Health Star Rating Calculator site :)"
     />
 
     <Project
-      name="rhymes-with"
-      href="https://github.com/muhashi/rhymes-with"
-      description="An small npm module that determines if two words rhyme, based on the CMU rhyming dictionary"
+      name="exchange-rates-rba"
+      href="https://github.com/muhashi/exchange-rates-rba"
+      description="An npm module for retrieving daily foreign currency exchange rates for USD, EUR, and more from the Reserve Bank of Australia"
     />
   </div>
 </div>
