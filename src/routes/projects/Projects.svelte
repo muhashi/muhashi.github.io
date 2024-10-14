@@ -13,7 +13,7 @@
       name="Geodle"
       href="https://geodle.me"
       description="A Wordle-like game that tests your knowledge of country demographics by having you guess the country based on demographics like continent, population and average temperature.<br><br>Made with TypeScript, React.js, and Material UI. "
-      imageFile="geodle.jpg"
+      imageFile="geodle.png"
       imageAlt="Screenshot of Geodle"
     />
 <!--
