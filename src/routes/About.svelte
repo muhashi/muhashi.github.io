@@ -10,7 +10,7 @@
     out <a href="/projects">my other stuff</a>!
   </p>
   <p>
-    You can <Email domain="gmail" name="muhamedoes+muhashi" tld="com"
+    You can <Email domain="muhashi" name="hello" tld="com"
       >email me here</Email
     >, or find me on <a href="https://github.com/muhashi">Github</a>
   </p>
