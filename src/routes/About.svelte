@@ -6,7 +6,7 @@
   <h3>about me :&rpar;</h3>
   <p>hellooo, I'm muhashi</p>
   <p>
-    If you're here from <a href="https://geodle.me">Geodle</a>, check
+    I developed <a href="https://geodle.me">Geodle</a>, check
     out <a href="/projects">my other stuff</a>!
   </p>
   <p>
@@ -14,7 +14,7 @@
       >email me here</Email
     >, or find me on <a href="https://github.com/muhashi">Github</a>
   </p>
-  <p>that is all</p>
+  <p>you can leave a message in in <a href="https://muhashi.atabook.org/">my guestbook</a> :&rpar;</p>
 </div>
 
 <style>
