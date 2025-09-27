@@ -14,7 +14,7 @@
       >email me here</Email
     >, or find me on <a href="https://github.com/muhashi">Github</a>
   </p>
-  <p>you can leave a message in in <a href="https://muhashi.atabook.org/">my guestbook</a> :&rpar;</p>
+  <p>you can leave a message in <a href="https://muhashi.atabook.org/">my guestbook</a> :&rpar;</p>
 </div>
 
 <style>
