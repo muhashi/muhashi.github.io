@@ -12,9 +12,17 @@
     <Project
       name="Geodle"
       href="https://geodle.me"
-      description="A Wordle-like game that tests your knowledge of country demographics by having you guess the country based on demographics like continent, population and average temperature.<br><br>Made with TypeScript, React.js, and Material UI. "
+      description="A Wordle-like game that tests your knowledge of country demographics by having you guess the country based on demographics like continent, population and average temperature."
       imageFile="geodle.png"
       imageAlt="Screenshot of Geodle"
+    />
+
+    <Project
+      name="FakeNewsdle"
+      href="https://muhashi.com/fakenewsdle/"
+      description="Guess whether an absurd sounding headline is made up or a real news article! "
+      imageFile="fakenewsdle.png"
+      imageAlt="Screenshot of FakeNewsdle"
     />
 <!--
     <Project
@@ -28,7 +36,7 @@
     <Project
       name="Health Star Rating Calculator"
       href="https://muhashi.com/health-star-rating-web/"
-      description="Calculate and explain the Australian/New Zealand Health Star Rating of foods.<br><br>Made with Svelte."
+      description="Calculate and explain the Australian/New Zealand Health Star Rating of foods."
       imageFile="health-star-rating-calculator.png"
       imageAlt="Screenshot of it's raining somewhere else"
     />
