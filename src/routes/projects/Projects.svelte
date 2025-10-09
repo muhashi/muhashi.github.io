@@ -24,6 +24,15 @@
       imageFile="fakenewsdle.png"
       imageAlt="Screenshot of FakeNewsdle"
     />
+
+    <Project
+      name="Coindle"
+      href="https://muhashi.com/coindle/"
+      description="Call as many coin flips correctly in a row as you can! Only 1 attempt per day."
+      imageFile="coindle.png"
+      imageAlt="Screenshot of Coindle"
+    />
+
 <!--
     <Project
       name="it's raining somewhere else"
