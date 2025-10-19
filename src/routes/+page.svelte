@@ -1,11 +1,13 @@
 <script>
   import Header from "./Header.svelte";
   import About from "./About.svelte";
+  import Projects from "./projects/Projects.svelte";
 </script>
 
 <div>
   <Header />
   <About />
+  <Projects />
 </div>
 
 <style>

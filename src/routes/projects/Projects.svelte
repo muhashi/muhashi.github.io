@@ -3,9 +3,8 @@
 </script>
 
 <div class="sections">
-  <h2>some stuff i made :&rpar;</h2>
   <div class="projects">
-    <h3>you can try these now!</h3>
+    <h3>games and stuff</h3>
 
     <hr />
 
@@ -18,11 +17,11 @@
     />
 
     <Project
-      name="FakeNewsdle"
-      href="https://muhashi.com/fakenewsdle/"
-      description="Guess whether an absurd sounding headline is made up or a real news article! "
-      imageFile="fakenewsdle.png"
-      imageAlt="Screenshot of FakeNewsdle"
+      name="AITA Guesser"
+      href="https://muhashi.com/aita-guesser/"
+      description="Guess the verdict for over 1000 popular r/AmItheAsshole Reddit posts."
+      imageFile="aita.png"
+      imageAlt="Screenshot of AITA Guesser"
     />
 
     <Project
@@ -33,15 +32,14 @@
       imageAlt="Screenshot of Coindle"
     />
 
-<!--
     <Project
-      name="it's raining somewhere else"
-      href="https://itsrainingsomewhereelse.com"
-      description="A dumb little website that shows you a city where it's currently raining.<br><br>Made with TypeScript, React.js, Node.js, and Express.js."
-      imageFile="its-raining-somewhere-else.png"
-      imageAlt="Screenshot of it's raining somewhere else"
+      name="FakeNewsdle"
+      href="https://muhashi.com/fakenewsdle/"
+      description="Guess whether an absurd sounding headline is made up or a real news article! "
+      imageFile="fakenewsdle.png"
+      imageAlt="Screenshot of FakeNewsdle"
     />
--->
+
     <Project
       name="Health Star Rating Calculator"
       href="https://muhashi.com/health-star-rating-web/"
@@ -52,7 +50,7 @@
   </div>
 
   <div class="projects">
-    <h3>you can use these in your own projects!</h3>
+    <h3>for developers!</h3>
 
     <hr />
 
@@ -103,6 +101,18 @@
       href="https://github.com/muhashi/exchange-rates-rba"
       description="An npm module for retrieving daily foreign currency exchange rates for USD, EUR, and more from the Reserve Bank of Australia"
     />
+
+    <Project
+      name="arpansa-uv-api"
+      href="https://github.com/muhashi/arpansa-uv-api"
+      description="An npm module for retrieving UV index data from the ARPANSA for multiple locations in Australia and Antarctica"
+    />
+
+    <Project
+      name="sbs-on-demand-scraper"
+      href="https://github.com/muhashi/sbs-on-demand-scraper"
+      description="A Python command line tool to download the list of movies and TV shows currently available on SBS On Demand"
+    />
   </div>
 </div>
 
@@ -113,11 +123,11 @@
     justify-content: flex-start;
     align-items: flex-start;
     width: 100%;
-    margin-top: 5rem;
   }
 
   .sections {
     width: 80%;
+    margin-top: 5rem;
   }
 
   hr {
