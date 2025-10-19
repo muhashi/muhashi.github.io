@@ -3,7 +3,7 @@
 </script>
 
 <div class="about">
-  <!-- <p style="margin: 0 auto;">find out when I make new stuff in <a href="https://muhashi.kit.com/cb6d0468b4" target="_blank">my newsletter</a> <span style="font-size: 0.9rem;">(max 1 email per month)</span></p> -->
+  <p style="margin: 0 auto;">find out when I make new stuff in <a href="https://muhashi.kit.com/cb6d0468b4" target="_blank">my newsletter</a> <span style="font-size: 0.9rem;">(max 1 email per month)</span></p>
   <h3>about me :&rpar;</h3>
   <p>hellooo</p>
   <p>
