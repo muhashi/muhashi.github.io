@@ -127,7 +127,7 @@
 
   .sections {
     width: 80%;
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
 
   hr {
