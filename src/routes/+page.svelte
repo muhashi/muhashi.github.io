@@ -8,6 +8,11 @@
   <Header />
   <About />
   <Projects />
+  <footer>
+    <p id="footer-text">
+      What are you looking down here for 🤔 What are you trying to find?
+    </p>
+  </footer>
 </div>
 
 <style>
@@ -17,5 +22,10 @@
     justify-content: flex-start;
     align-items: center;
     width: 100%;
+  }
+
+  #footer-text {
+    font-size: medium;
+    color: gray;
   }
 </style>
