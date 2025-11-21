@@ -33,6 +33,14 @@
     />
 
     <Project
+      name="What could you buy instead of a house in Australia?"
+      href="https://housing.muhashi.com/"
+      description="The average Australian home costs over $1 million. What could you be getting instead?"
+      imageFile="housing.png"
+      imageAlt="Screenshot of housing.muhashi.com"
+    />
+
+    <Project
       name="FakeNewsdle"
       href="https://muhashi.com/fakenewsdle/"
       description="Guess whether an absurd sounding headline is made up or a real news article! "
