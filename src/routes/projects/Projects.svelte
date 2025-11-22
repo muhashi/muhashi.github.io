@@ -57,7 +57,7 @@
     />
   </div>
 
-  <div class="projects">
+  <!-- <div class="projects">
     <h3>for developers!</h3>
 
     <hr />
@@ -121,7 +121,7 @@
       href="https://github.com/muhashi/sbs-on-demand-scraper"
       description="A Python command line tool to download the list of movies and TV shows currently available on SBS On Demand"
     />
-  </div>
+  </div> -->
 </div>
 
 <style>
