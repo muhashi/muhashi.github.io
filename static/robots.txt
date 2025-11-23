@@ -1,0 +1,10 @@
+# What're you snooping around here for
+#   /~\
+#  C oo
+#  _( ^)
+# /   ~\
+# 
+# Spare a penny? https://ko-fi.com/muhashi
+
+User-agent: *
+Disallow:
