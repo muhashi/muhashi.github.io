@@ -56,7 +56,7 @@
     background: black;
     animation: typewriter var(--typewriterSpeed)
         steps(var(--typewriterCharacters)) 1s forwards,
-      blink 750ms steps(var(--typewriterCharacters)) 5 forwards;
+      blink 1s steps(var(--typewriterCharacters)) 5 forwards;
   }
 
   @keyframes typewriter {
@@ -66,15 +66,11 @@
   }
 
   @keyframes blink {
-    to {
-      background: transparent;
+    0%, 49% {
+        opacity: 1;
     }
-  }
-
-  @keyframes fadeInUp {
-    to {
-      opacity: 1;
-      transform: translateY(0);
+    50%, 100% {
+        opacity: 0;
     }
   }
 </style>
