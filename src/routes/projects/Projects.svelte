@@ -33,6 +33,14 @@
     />
 
     <Project
+      name="Seadle"
+      href="https://seadle.muhashi.com/"
+      description="Guess the sea of the day! Learn about the world's seas and use directions and distance to narrow down the secret sea."
+      imageFile="seadle.png"
+      imageAlt="Screenshot of Seadle"
+    />
+
+    <Project
       name="What could you buy instead of a house in Australia?"
       href="https://housing.muhashi.com/"
       description="The average Australian home costs over $1 million. What could you be getting instead?"
